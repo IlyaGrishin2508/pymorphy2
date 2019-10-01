@@ -1,0 +1,3 @@
+pip install pymorphy2
+pip install pymorphy2-dicts
+pip install DAWG-Python
